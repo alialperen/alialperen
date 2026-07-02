@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alialperen" alt="alialperen" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/alpernclk1" target="blank"><img src="https://img.shields.io/twitter/follow/alpernclk1?logo=twitter&style=for-the-badge" alt="alpernclk1" /></a> </p>
 
 - 🔭 I'm currently working on **Data Mesh** at **CARIAD**
 
